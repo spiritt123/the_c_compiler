@@ -1,5 +1,9 @@
 # Prerequisites
 *.d
+*.s
+*.i
+
+sandbox/*
 
 # Object files
 *.o
